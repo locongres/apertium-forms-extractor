@@ -1,7 +1,7 @@
 # apertium-forms-extractor
 
 ## Introduction
-Apertium forms extractor is a set of python programs to generate an inflected forms lexicon from an Apertium monolingual dictionary.
+Apertium forms extractor is a set of python programs to generate an inflected forms lexicon from a monolingual dictionary of the open-source machine translation platform Apertium (https://wiki.apertium.org).
 It was developed by Lo Congrès (https://locongres.org) among a set of tools to build datas for NLP applications for poorly endowed languages.
 
 ## How to use ?
