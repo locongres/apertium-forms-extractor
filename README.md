@@ -9,7 +9,7 @@ First, you need to generate a .dix file and extract datas from it :
 1) Open a terminal window in your apertium language directory (ex. : apertium-oci)
 2) Type ./autogen.sh
 3) Type make
-4) Type lt-expand .deps/[votre code langue].dix > flexionLexicon.txt
+4) Type lt-expand .deps/[your_language_code].dix > flexionLexicon.txt
 
 You can then use apertium_form_extractor programs on your flexionLexicon.txt file.
 
